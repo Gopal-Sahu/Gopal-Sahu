@@ -2,13 +2,6 @@
 I build enterprise grade scalable data platforms.
 
 :cloud: Cloud Data Architect <a href="http://Google.com/" target="_blank">@Google</a><br>
-<hr>
-
-### Focus Areas:
-- Data Engineering
-- Data Platform & DevOps
-- Data Analytics
-- Data Science & MLOps
 
 <hr>
 
