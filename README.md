@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gopal-Sahu
-- 👀 I’m interested in Random Stuff
-- 🌱 I’m currently learning - "Learning Effecively"
+### Hi, My Name is Gopal Sahu.
+I work at Google building Scalable Data Platforms for Enteprises on Google Cloud.
+
 
 <!---
 Gopal-Sahu/Gopal-Sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
