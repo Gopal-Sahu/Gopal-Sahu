@@ -6,9 +6,9 @@ I build enterprise grade scalable data platforms.
 
 ### Focus Areas:
 - Data Engineering
-- Data Platform
+- Data Platform & DevOps
 - Data Analytics
-- Data Science
+- Data Science & MLOps
 
 <hr>
 
