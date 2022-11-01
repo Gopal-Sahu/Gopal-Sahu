@@ -11,6 +11,7 @@ I build enterprise grade scalable data platforms.
 - Data Science & MLOps
 
 <hr>
+
 Below are the repos for Courses:
 - [Gopal-Sahu/DE-MasterClass](https://github.com/Gopal-Sahu/DE-MasterClass): Lessons for Data Engineering MasterClass.
 
