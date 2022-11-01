@@ -1,5 +1,6 @@
-## Hi, My Name is Gopal Sahu.
+### Hi, My Name is Gopal Sahu.
 I build enterprise grade scalable data platforms.
+
 :cloud: Cloud Data Architect <a href="http://Google.com/" target="_blank">@Google</a><br>
 
 <hr>
